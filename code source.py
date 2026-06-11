@@ -24,7 +24,7 @@ def monprogramme():
         goUp(marge)
 
         # ---------- PARCOURS 3D ----------
-        for couche in range(nb_couches):
+        for couche in range(nb_couches): 
 
             for ligne in range(nb_lignes):
 
