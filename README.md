@@ -40,19 +40,19 @@ Cette méthode garantit une couverture exhaustive de l'espace de recherche.
 ##  Architecture du projet
 Projet Drone
 │
-├── Programme principal
-│ ├── Création de la salle
-│ ├── Génération de la cible
-│ └── Initialisation du drone
+├── Programme principal  
+│ ├── Création de la salle  
+│ ├── Génération de la cible  
+│ └── Initialisation du drone  
+│  
+├── Algorithme de navigation    
+│ ├── Décollage  
+│ ├── Parcours des lignes   
+│ ├── Parcours des couches   
+│ ├── Détection de cible  
+│ └── Atterrissage  
 │
-├── Algorithme de navigation
-│ ├── Décollage
-│ ├── Parcours des lignes
-│ ├── Parcours des couches
-│ ├── Détection de cible
-│ └── Atterrissage
-│
-└── Gestion des erreurs
+└── Gestion des erreurs   
 
 ---
 
